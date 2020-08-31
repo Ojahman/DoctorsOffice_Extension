@@ -10,7 +10,7 @@ public class Main {
         int numVisits = 5;
         String copay = "$35";
         String next_appt = "30/9/2020";
-        String phone = "202-876=7933";
+        String phone = "202-876-7933";
 
         System.out.println("Patient Details:");
         System.out.println("Name: " + patientName);
